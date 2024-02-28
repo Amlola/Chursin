@@ -1,0 +1,1 @@
+In order to create, you need to write the appropriate command on CMD. To add a key you need to open Github settings. To clone a repository, you need to write: git clone git@github.com:username/repository.git
